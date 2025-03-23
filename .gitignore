@@ -1,0 +1,13 @@
+# Ignore all .log files
+*.log
+
+# Ignore specific files
+config.json
+secrets.env
+
+# Ignore directories
+node_modules/
+dist/
+build/
+.DS_Store
+myenv
